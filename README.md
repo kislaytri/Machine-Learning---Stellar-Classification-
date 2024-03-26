@@ -1,9 +1,9 @@
-Summary
+                                                            Summary
 In the era of big data and reliable algorithms, data classification is instrumental in the field of astronomical research. In this project, 
 we explore supervised classification methods such as Random Forest, Decision Tree and Random Forest. We applied these methods to classify 
 the dataset as Star, Galaxy or Quasar along with comparing different classification models to find the superior one.
 
-Background
+                                                            Background
 In the branches of astronomy, the classification of celestial objects is essential. The ability to collect data samples of stars, galaxies, 
 and quasars is its main advantage. Even though quasars are crucial to a variety of astronomical studies and research, their sample sizes are 
 still in the relative minority group. Significant increases in the sample sizes of quasars and other astronomical objects can only be produced 
